@@ -5,3 +5,4 @@
 - `lecture-07`: Python Hello World Docker 이미지 실습
 - `lecture-08/python`: Python 웹 서버 Docker 이미지 실습
 - `lecture-09`: Docker Compose 서비스 구성 실습
+- `lecture-10`: Docker Volume을 사용한 Jenkins 데이터 유지 실습 기록
