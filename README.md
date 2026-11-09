@@ -1,8 +1,9 @@
 # Microservice Programming Labs
 
-마이크로서비스 프로그래밍 수업에서 수행한 Docker 및 Docker Compose 실습 기록입니다.
+마이크로서비스 프로그래밍 수업에서 수행한 Docker, Docker Compose, Kubernetes 실습 기록입니다.
 
 - `lecture-07`: Python Hello World Docker 이미지 실습
 - `lecture-08/python`: Python 웹 서버 Docker 이미지 실습
 - `lecture-09`: Docker Compose 서비스 구성 실습
 - `lecture-10`: Docker Volume을 사용한 Jenkins 데이터 유지 실습 기록
+- `lecture-14`: Killercoda에서 수행한 Kubernetes Basics Chapter 1~4 실습 기록
